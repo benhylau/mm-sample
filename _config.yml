@@ -1,8 +1,8 @@
 # Site wide configuration
 
-title:            Minimal Mistakes
+title:            My Minimal Mistakes Fork
 locale:           en_US
-url:              //mmistakes.github.io/minimal-mistakes
+url:              //benhylau.github.io/mm-sample
 
 
 # Jekyll configuration
@@ -26,22 +26,22 @@ kramdown:
 
 # Site owner
 owner:
-  name: Michael Rose
-  avatar: bio-photo.jpg
-  bio: "Just another boring, time traveling, tattooed, designer from Buffalo New York."
-  disqus-shortname: minimalmistakes
-  twitter: mmistakes
-  facebook: michaelrose
+  name: Benedict Lau
+  avatar:
+  bio: "A short description goes here."
+  disqus-shortname:
+  twitter:
+  facebook:
   google:
-    plus: MichaelRoseDesign
-    analytics: UA-2011187-3
-    verify: UQj93ERU9zgECodaaXgVpkjrFn9UrDMEzVamacSoQ8Y
-    ad-client: ca-pub-7328585512091257
-    ad-slot: 7855747535
-  bing-verify: D81F4C18A6CB3018F64D7C827D953DFD
-  github: mmistakes
-  instagram: mmistakes 
-  github: mmistakes
+    plus:
+    analytics:
+    verify:
+    ad-client:
+    ad-slot:
+  bing-verify:
+  github: benhylau
+  instagram:
+  github: benhylau
 
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
