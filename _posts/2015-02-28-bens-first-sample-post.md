@@ -1,5 +1,11 @@
 ---
 published: true
+layout: post
+excerpt: A short description of my first sample post.
+tags: 
+  - sample post
+modified: {}
+comments: true
 ---
 
 ## Ben's First Sample Post
